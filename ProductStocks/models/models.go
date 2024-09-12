@@ -1,5 +1,4 @@
 package models
-import ()
 
   type Stock struct{
     Stockid int64 `json:"StockID"`
