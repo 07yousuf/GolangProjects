@@ -3,6 +3,7 @@ import (
   "fmt"
   "net/http"
   "ProductStocks/router"
+  "log"
 )
 func main(){
   r := mux.NewRouter()
